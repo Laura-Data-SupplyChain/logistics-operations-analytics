@@ -69,7 +69,7 @@ El índice de desempeño combina:
 
 ## Cómo Explorar el Proyecto
 
-- Revisar el archivo seguimiento_cargas.xlsx en la carpeta /data.
+- Revisar el archivo Cargas.xlsx o Cargas.csv en la carpeta /data.
 - Abrir el archivo dashboard_operaciones.pbix en Power BI Desktop.
 - Analizar los indicadores generales en la vista ejecutiva.
 - Utilizar filtros por aerolínea y estado para explorar desempeño individual.
