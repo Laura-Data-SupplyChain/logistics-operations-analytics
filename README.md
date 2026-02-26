@@ -19,7 +19,7 @@ El proyecto simula el rol de Analista de Operaciones Logísticas en una empresa 
 
 /powerbi
 - [dashboard_operaciones.pbix](Power BI/dashboard_operaciones.pbix)
-- [dashboard_operaciones.pdf][Power BI/dashboard_operaciones.pdf)
+- [dashboard_operaciones.pdf](Power BI/dashboard_operaciones.pdf)
 
 ### /data
 
