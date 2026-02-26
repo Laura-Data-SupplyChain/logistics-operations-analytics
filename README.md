@@ -14,12 +14,12 @@ El proyecto simula el rol de Analista de Operaciones Logísticas en una empresa 
 ## Estructura de Archivos
 
 /data
-
-   seguimiento_cargas.xlsx
+- [Cargas.xlsx](Data/Cargas.xlsx)
+- [Cargas.csv](Data/Cargas.csv)
 
 /powerbi
-
-   dashboard_operaciones.pbix
+- [dashboard_operaciones.pbix](Power BI/dashboard_operaciones.pbix)
+- [dashboard_operaciones.pdf][Power BI/dashboard_operaciones.pdf)
 
 ### /data
 
