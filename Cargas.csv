@@ -1,0 +1,71 @@
+﻿ID_Envio;Guia_Aerea;Aerolinea;Origen;Destino;Fecha_Estimada;Fecha_Real;Estado;Incidencia; Valor_Carga ;Dias_Retraso;Cumplimiento de arribo
+1;AWB1001;Avianca Cargo;Miami;Bogotá;01/02/2026;01/02/2026;Entregado;Sin novedad; $ 12.000 ;0;1
+2;AWB1002;LATAM Cargo;Madrid;Bogotá;02/02/2026;03/02/2026;Retrasado;Retraso por clima; $ 18.000 ;1;0
+3;AWB1003;DHL Aviation;Ciudad de México;Bogotá;02/02/2026;02/02/2026;Entregado;Sin novedad; $ 9.500 ;0;1
+4;AWB1004;Copa Cargo;Panamá;Bogotá;03/02/2026;04/02/2026;En aduana;Inspección aduanera; $ 15.000 ;1;0
+5;AWB1005;Avianca Cargo;Santiago;Bogotá;03/02/2026;03/02/2026;Entregado;Sin novedad; $ 11.000 ;0;1
+6;AWB1006;LATAM Cargo;Lima;Bogotá;04/02/2026;06/02/2026;Retrasado;Retraso documental; $ 21.000 ;2;0
+7;AWB1007;DHL Aviation;Quito;Bogotá;04/02/2026;04/02/2026;Entregado;Sin novedad; $ 8.000 ;0;1
+8;AWB1008;Copa Cargo;San José;Bogotá;05/02/2026;05/02/2026;Arribado;Sin novedad; $ 6.700 ;0;1
+9;AWB1009;Avianca Cargo;Buenos Aires;Bogotá;05/02/2026;07/02/2026;Retrasado;Retraso por clima; $ 25.000 ;2;0
+10;AWB1010;LATAM Cargo;São Paulo;Bogotá;06/02/2026;06/02/2026;Entregado;Sin novedad; $ 13.000 ;0;1
+11;AWB1011;DHL Aviation;Nueva York;Bogotá;06/02/2026;06/02/2026;Entregado;Sin novedad; $ 17.000 ;0;1
+12;AWB1012;Copa Cargo;Panamá;Bogotá;07/02/2026;08/02/2026;En aduana;Inspección aduanera; $ 9.200 ;1;0
+13;AWB1013;Avianca Cargo;Miami;Bogotá;07/02/2026;07/02/2026;Entregado;Sin novedad; $ 14.500 ;0;1
+14;AWB1014;LATAM Cargo;Madrid;Bogotá;08/02/2026;09/02/2026;Retrasado;Retraso documental; $ 19.800 ;1;0
+15;AWB1015;DHL Aviation;Ciudad de México;Bogotá;08/02/2026;08/02/2026;Entregado;Sin novedad; $ 7.600 ;0;1
+16;AWB1016;Copa Cargo;Panamá;Bogotá;09/02/2026;09/02/2026;Arribado;Sin novedad; $ 8.800 ;0;1
+17;AWB1017;Avianca Cargo;Lima;Bogotá;09/02/2026;11/02/2026;Retrasado;Retraso por clima; $ 22.000 ;2;0
+18;AWB1018;LATAM Cargo;Santiago;Bogotá;10/02/2026;10/02/2026;Entregado;Sin novedad; $ 15.600 ;0;1
+19;AWB1019;DHL Aviation;Quito;Bogotá;10/02/2026;10/02/2026;Entregado;Sin novedad; $ 9.100 ;0;1
+20;AWB1020;Copa Cargo;San José;Bogotá;11/02/2026;12/02/2026;En aduana;Inspección aduanera; $ 10.400 ;1;0
+21;AWB1021;Avianca Cargo;Miami;Bogotá;11/02/2026;11/02/2026;Entregado;Sin novedad; $ 13.200 ;0;1
+22;AWB1022;LATAM Cargo;Madrid;Bogotá;12/02/2026;14/02/2026;Retrasado;Retraso documental; $ 24.000 ;2;0
+23;AWB1023;DHL Aviation;Nueva York;Bogotá;12/02/2026;12/02/2026;Entregado;Sin novedad; $ 11.800 ;0;1
+24;AWB1024;Copa Cargo;Panamá;Bogotá;13/02/2026;13/02/2026;Arribado;Sin novedad; $ 7.600 ;0;1
+25;AWB1025;Avianca Cargo;Buenos Aires;Bogotá;13/02/2026;15/02/2026;Retrasado;Retraso por clima; $ 27.000 ;2;0
+26;AWB1026;LATAM Cargo;Lima;Bogotá;14/02/2026;14/02/2026;Entregado;Sin novedad; $ 9.800 ;0;1
+27;AWB1027;DHL Aviation;Quito;Bogotá;14/02/2026;14/02/2026;Entregado;Sin novedad; $ 8.600 ;0;1
+28;AWB1028;Copa Cargo;San José;Bogotá;15/02/2026;16/02/2026;En aduana;Inspección aduanera; $ 14.000 ;1;0
+29;AWB1029;Avianca Cargo;Miami;Bogotá;15/02/2026;15/02/2026;Entregado;Sin novedad; $ 12.500 ;0;1
+30;AWB1030;LATAM Cargo;Madrid;Bogotá;16/02/2026;18/02/2026;Retrasado;Retraso documental; $ 21.500 ;2;0
+31;AWB1031;DHL Aviation;Ciudad de México;Bogotá;16/02/2026;16/02/2026;Entregado;Sin novedad; $ 9.300 ;0;1
+32;AWB1032;Copa Cargo;Panamá;Bogotá;17/02/2026;17/02/2026;Arribado;Sin novedad; $ 7.100 ;0;1
+33;AWB1033;Avianca Cargo;Lima;Bogotá;17/02/2026;19/02/2026;Retrasado;Retraso por clima; $ 26.000 ;2;0
+34;AWB1034;LATAM Cargo;Santiago;Bogotá;18/02/2026;18/02/2026;Entregado;Sin novedad; $ 14.900 ;0;1
+35;AWB1035;DHL Aviation;Nueva York;Bogotá;18/02/2026;18/02/2026;Entregado;Sin novedad; $ 17.800 ;0;1
+36;AWB1036;Copa Cargo;Panamá;Bogotá;19/02/2026;20/02/2026;En aduana;Inspección aduanera; $ 9.900 ;1;0
+37;AWB1037;Avianca Cargo;Miami;Bogotá;19/02/2026;19/02/2026;Entregado;Sin novedad; $ 11.200 ;0;1
+38;AWB1038;LATAM Cargo;Madrid;Bogotá;20/02/2026;21/02/2026;Retrasado;Retraso documental; $ 20.500 ;1;0
+39;AWB1039;DHL Aviation;Quito;Bogotá;20/02/2026;20/02/2026;Entregado;Sin novedad; $ 8.700 ;0;1
+40;AWB1040;Copa Cargo;San José;Bogotá;21/02/2026;21/02/2026;Arribado;Sin novedad; $ 7.900 ;0;1
+41;AWB1041;Avianca Cargo;Buenos Aires;Bogotá;21/02/2026;23/02/2026;Retrasado;Retraso por clima; $ 28.500 ;2;0
+42;AWB1042;LATAM Cargo;Lima;Bogotá;22/02/2026;22/02/2026;Entregado;Sin novedad; $ 10.100 ;0;1
+43;AWB1043;DHL Aviation;Nueva York;Bogotá;22/02/2026;22/02/2026;Entregado;Sin novedad; $ 16.300 ;0;1
+44;AWB1044;Copa Cargo;Panamá;Bogotá;23/02/2026;24/02/2026;En aduana;Inspección aduanera; $ 9.500 ;1;0
+45;AWB1045;Avianca Cargo;Miami;Bogotá;23/02/2026;23/02/2026;Entregado;Sin novedad; $ 13.400 ;0;1
+46;AWB1046;LATAM Cargo;Madrid;Bogotá;24/02/2026;26/02/2026;Retrasado;Retraso documental; $ 23.000 ;2;0
+47;AWB1047;DHL Aviation;Ciudad de México;Bogotá;24/02/2026;24/02/2026;Entregado;Sin novedad; $ 8.900 ;0;1
+48;AWB1048;Copa Cargo;Panamá;Bogotá;25/02/2026;25/02/2026;Arribado;Sin novedad; $ 7.200 ;0;1
+49;AWB1049;Avianca Cargo;Lima;Bogotá;25/02/2026;27/02/2026;Retrasado;Retraso por clima; $ 25.500 ;2;0
+50;AWB1050;LATAM Cargo;Santiago;Bogotá;26/02/2026;26/02/2026;Entregado;Sin novedad; $ 14.800 ;0;1
+51;AWB1051;DHL Aviation;Quito;Bogotá;26/02/2026;26/02/2026;Entregado;Sin novedad; $ 9.200 ;0;1
+52;AWB1052;Copa Cargo;San José;Bogotá;27/02/2026;28/02/2026;En aduana;Inspección aduanera; $ 11.300 ;1;0
+53;AWB1053;Avianca Cargo;Miami;Bogotá;27/02/2026;27/02/2026;Entregado;Sin novedad; $ 14.100 ;0;1
+54;AWB1054;LATAM Cargo;Madrid;Bogotá;28/02/2026;01/03/2026;Retrasado;Retraso documental; $ 21.000 ;1;0
+55;AWB1055;DHL Aviation;Nueva York;Bogotá;28/02/2026;28/02/2026;Entregado;Sin novedad; $ 17.200 ;0;1
+56;AWB1056;Copa Cargo;Panamá;Bogotá;01/03/2026;01/03/2026;Arribado;Sin novedad; $ 7.600 ;0;1
+57;AWB1057;Avianca Cargo;Buenos Aires;Bogotá;01/03/2026;03/03/2026;Retrasado;Retraso por clima; $ 29.500 ;2;0
+58;AWB1058;LATAM Cargo;Lima;Bogotá;02/03/2026;02/03/2026;Entregado;Sin novedad; $ 9.800 ;0;1
+59;AWB1059;DHL Aviation;Quito;Bogotá;02/03/2026;02/03/2026;Entregado;Sin novedad; $ 8.700 ;0;1
+60;AWB1060;Copa Cargo;San José;Bogotá;03/03/2026;04/03/2026;En aduana;Inspección aduanera; $ 12.500 ;1;0
+61;AWB1061;Avianca Cargo;Miami;Bogotá;03/03/2026;03/03/2026;Entregado;Sin novedad; $ 15.000 ;0;1
+62;AWB1062;LATAM Cargo;Madrid;Bogotá;04/03/2026;06/03/2026;Retrasado;Retraso documental; $ 24.000 ;2;0
+63;AWB1063;DHL Aviation;Nueva York;Bogotá;04/03/2026;04/03/2026;Entregado;Sin novedad; $ 16.200 ;0;1
+64;AWB1064;Copa Cargo;Panamá;Bogotá;05/03/2026;05/03/2026;Arribado;Sin novedad; $ 8.100 ;0;1
+65;AWB1065;Avianca Cargo;Lima;Bogotá;05/03/2026;07/03/2026;Retrasado;Retraso por clima; $ 27.000 ;2;0
+66;AWB1066;LATAM Cargo;Santiago;Bogotá;06/03/2026;06/03/2026;Entregado;Sin novedad; $ 15.800 ;0;1
+67;AWB1067;DHL Aviation;Ciudad de México;Bogotá;06/03/2026;06/03/2026;Entregado;Sin novedad; $ 9.400 ;0;1
+68;AWB1068;Copa Cargo;Panamá;Bogotá;07/03/2026;08/03/2026;En aduana;Inspección aduanera; $ 11.900 ;1;0
+69;AWB1069;Avianca Cargo;Miami;Bogotá;07/03/2026;07/03/2026;Entregado;Sin novedad; $ 14.300 ;0;1
+70;AWB1070;LATAM Cargo;Madrid;Bogotá;08/03/2026;10/03/2026;Retrasado;Retraso documental; $ 25.000 ;2;0
