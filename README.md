@@ -1,78 +1,41 @@
-# Logistics Operations Analytics – Control y Desempeño de Carga Aérea
-Proyecto de simulación enfocado en el análisis operativo de envíos internacionales vía aérea.
+# Logistics Operations Analytics: Control y Desempeño de Carga Aérea
 
-## Objetivo
-Desarrollar un modelo de control operativo que permita monitorear el desempeño logístico de cargas aéreas mediante el análisis de:
-- Cumplimiento de fechas estimadas vs reales
-- Incidencias operativas
-- Severidad de retrasos
-- Impacto financiero
-- Evaluación de desempeño por aerolínea
+### Monitor de Cumplimiento Operativo y Evaluación de Proveedores (SLA)
+**Herramientas:** `Power BI (DAX)` | `Excel` | `Análisis de Riesgo Financiero` | `Vendor Scoring`
 
-El proyecto simula el rol de Analista de Operaciones Logísticas en una empresa con operación en Bogotá.
+---
 
-## Estructura de Archivos
+## Objetivo del Proyecto
+Optimizar la visibilidad de la cadena de suministro internacional mediante un modelo de control operativo para carga aérea. El proyecto se centra en la mitigación de riesgos financieros derivados de retrasos y en la clasificación técnica de aerolíneas basada en niveles de servicio (**SLA**).
 
-/data
-- [Cargas.xlsx](Data/Cargas.xlsx)
-- [Cargas.csv](Data/Cargas.csv)
+## Metodología y Análisis de Datos
+1. **Arquitectura de Datos:** Estructuración de 70 registros de importación aérea, incluyendo trazabilidad de guías (AWB) y tiempos de tránsito.
+2. **Modelado en Power BI:** Implementación de medidas avanzadas en **DAX** para calcular desviaciones temporales y exposición financiera.
+3. **Vendor Scoring (Ponderación):** Creación de un índice de desempeño dinámico basado en:
+   * **60%** Cumplimiento de entregas.
+   * **30%** Severidad del retraso (Días mora).
+   * **10%** Impacto financiero (Valor de la carga en riesgo).
 
-/powerbi
-- [dashboard_operaciones pbix](Power_BI/dashboard_operaciones.pbix)
-- [dashboard_operaciones pdf](Power_BI/dashboard_operaciones.pdf)
+## Hallazgos Estratégicos (Insights)
+* **Exposición Financiera:** Se identificó que el riesgo económico no es proporcional al volumen, sino que se concentra en retrasos críticos de mercancía de alto valor.
+* **Ranking de Confiabilidad:** El modelo permitió categorizar a los proveedores (aerolíneas) en niveles de criticidad, facilitando la toma de decisiones para futuras contrataciones.
+* **Anomalías en Tiempos de Tránsito:** El análisis evidencia que demoras superiores a 24 horas impactan drásticamente el índice de cumplimiento operativo global.
 
-### /data
+## Propuesta de Valor para el Negocio
+Con este modelo, la compañía puede:
+1. **Optimizar el Lead Time:** Seleccionar rutas y proveedores con menores tasas de desviación.
+2. **Reducción de Costos Extraordinarios:** Anticipar retrasos para mitigar gastos por almacenamiento o paradas de línea de producción.
 
-Archivo en Excel con 70 envíos simulados que incluyen:
-- Guía aérea
-- Aerolínea
-- Origen y destino
-- Fecha estimada de arribo
-- Fecha real
-- Estado del envío
-- Incidencia
-- Valor de la carga
+---
 
-### /powerbi
+## Estructura del Proyecto
+* **data/**: Datasets en Excel y CSV con registros de guías aéreas y estados de envío.
+* **powerbi/**: Archivo `.pbix` con el dashboard interactivo y versión en PDF para reportes ejecutivos.
 
-Archivo del dashboard desarrollado en Power BI con:
-- Columnas calculadas
-- Medidas DAX
-- Indicadores ejecutivos
-- Visualizaciones dinámicas por aerolínea
+---
 
-## KPIs Analizados
-
-- Total de Envíos
-- % Cumplimiento Operativo
-- Promedio de Días de Retraso
-- Valor Financiero en Riesgo
-- Índice de Desempeño por Aerolínea (ponderado)
-
-El índice de desempeño combina:
-- 60% Cumplimiento
-- 30% Severidad del retraso
-- 10% Impacto financiero
-
-## Herramientas Utilizadas
-
-- Microsoft Excel (estructuración y validación de datos)
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
-
-## Principales Hallazgos
-
-- Se identificaron aerolíneas con mayor recurrencia de retrasos.
-- El impacto financiero se concentra en envíos con demoras superiores a 1 día.
-- El índice ponderado permite clasificar proveedores según confiabilidad operativa.
-- El análisis evidencia cómo pequeñas demoras pueden generar exposición financiera significativa.
-
-## Cómo Explorar el Proyecto
-
-- Revisar el archivo Cargas.xlsx o Cargas.csv en la carpeta /data.
-- Abrir el archivo dashboard_operaciones.pbix en Power BI Desktop.
-- Analizar los indicadores generales en la vista ejecutiva.
-- Utilizar filtros por aerolínea y estado para explorar desempeño individual.
-
+### 🔗 Recursos del Proyecto
+* [Descargar Reporte en PDF](LINK_A_TU_PDF)
+* [Explorar Dataset de Carga](https://github.com/TU_USUARIO/TU_REPO/blob/main/data/Cargas.xlsx)
 
 **Autor** Laura M
