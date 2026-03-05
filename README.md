@@ -35,7 +35,7 @@ Con este modelo, la compañía puede:
 ---
 
 ### 🔗 Recursos del Proyecto
-* [Descargar Reporte en PDF](LINK_A_TU_PDF)
+* [Descargar Reporte en PDF](Power_Bi/dashboard_operaciones.pdf)
 * [Explorar Dataset de Carga](https://github.com/TU_USUARIO/TU_REPO/blob/main/data/Cargas.xlsx)
 
 **Autor** Laura M
